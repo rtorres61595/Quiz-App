@@ -1,7 +1,14 @@
+
 .hide {
     display:none;
 }
 #main {
     margin: 50px;
     border: 1px solid black;
+}
+
+.container{
+    margin: auto;
+    content: counter();
+    
 }
